@@ -6,6 +6,8 @@
 
 原 README：[README-raw.md](https://github.com/yhx2010/pandora/tree/master/README-raw.md)
 
+以下是原版 README，但进行了部分修改：
+
 # Pandora
 
 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。
