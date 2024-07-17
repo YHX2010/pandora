@@ -2,6 +2,7 @@
 
 ### 新 Pandora：[new.oaifree.com](https://new.oaifree.com) & [特色功能](https://linux.do/t/topic/122674/)
 * `免费用户` GPT-4、GPT-4o`无限次数`！（大多数地区）免梯 & `完全免费`！
+
 （下面12点是`zhile/始皇`写的）
 * 支持`ShareToken、 OauthToken`分享，会话隔离、条数限制、用量查询等。
 * `避免降智或被注入阴间提示词`，这我之前发帖说过。
@@ -14,6 +15,7 @@
 * 支持`*.new.oaifree.com`通配，可一号一域名，域名`随便写`，`多开无压力`。
 * `隐私安全`从fakeopen到现在`没出过问题`，不同于有些服务卖聊天记录。
 * 还有的东西，公共场合不便说出来，你用用就知道了。 :innocent:
+
 （最后一点是我的总结）
 * 总之，除了要Access Token登录有些麻烦，[new Pandora](https://new.oaifree.com) 就是（我认为）最好的ChatGPT网站（比官网更牛！）
 
