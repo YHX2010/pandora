@@ -15,7 +15,7 @@
 * `隐私安全`从fakeopen到现在`没出过问题`，不同于有些服务卖聊天记录。
 * 还有的东西，公共场合不便说出来，你用用就知道了。 :innocent:
 （最后一点是我的总结）
-* 总之，除了要Access Token登录有些麻烦，new Pandora 就是（我认为）最好的ChatGPT网站（比官网更牛！）
+* 总之，除了要Access Token登录有些麻烦，[new Pandora](https://new.oaifree.com) 就是（我认为）最好的ChatGPT网站（比官网更牛！）
 
 ### 作者写的 Pandora 告别信：[你们赢了，但我却没有输](https://linux.do/t/topic/1051)
 
