@@ -49,19 +49,19 @@
 ![t2](https://github.com/yhx2010/pandora/raw/master/doc/images/t2.png)
 
 ### 4. This content may violate our <u>content policy</u>. 
-### &nbsp;&nbsp;&nbsp;道德审查，多触发几次可能就封号了。痛！！！
+### &nbsp;&nbsp;&nbsp;道德审查，多触发几次可能就封号了。痛！！！（呃……）
 ![t3](https://github.com/yhx2010/pandora/raw/master/doc/images/t3.png)
 
 ### 5. Something went wrong. 
 ### &nbsp;&nbsp;&nbsp;吃着火锅唱着歌，突然就出故障了。痛！
 ![t4](https://github.com/yhx2010/pandora/raw/master/doc/images/t4.png)
 
-### 6. 手机和电脑的模型不通用，顾这个就顾不到那个，痛！
+### 6. 手机和电脑的模型不通用，顾这个就顾不到那个，痛！（目前没有）
 ![t7](https://github.com/yhx2010/pandora/raw/master/doc/images/t7.png)
 
 ### 7. 蹦字慢吞吞，卡顿不流畅，不知道的甚至想换电脑。痛！
 
-### -8. 想把 `ChatGPT` 接到其他系统，结果只能接个差强人意的 `gpt-3.5-turbo`。痛！
+### 8. 想把 `ChatGPT` 接到其他系统，结果只能接个差强人意的 `gpt-3.5-turbo`。痛！（现在还有GPT-4o）
 
 ### _一次看完上面的噩梦，血压上来了，拳头硬了！太痛了！！！以上痛点，`Pandora` 一次全部解决。_
 
