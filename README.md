@@ -1,10 +1,22 @@
-本项目为纪念作用，建议去[RawChat](https://chat.rawchat.cc)/[FREEGPTS](https://chat.freegpts.org)以使用 ChatGPT
+### 本项目为纪念作用，建议去[RawChat](https://chat.rawchat.cc)/[FREEGPTS](https://chat.freegpts.org)以使用 ChatGPT
 
-新 Pandora：[new.oaifree.com](https://new.oaifree.com)
+### 新 Pandora：[new.oaifree.com](https://new.oaifree.com) & [特色功能](https://linux.do/t/topic/122674/)
+* `免费用户` GPT-4、GPT-4o`无限次数`！（大多数地区）免梯 & `完全免费`！
+* 支持`ShareToken、 OauthToken`分享，会话隔离、条数限制、用量查询等。
+* `避免降智或被注入阴间提示词`，这我之前发帖说过。
+* 支持`反代`，`始终`是`最新同步`的`官方UI`。
+* 支持`网页版 Voice`，点击`中间OpenAI的LOGO`即可（被墙）。
+* 拔除官方的很多遥测，`提速、降低内存占用`，也从一定程度上`降低环境问题导致的封号风险`。
+* Plus/Team 不需要计算 PoW Arkose Turnstile 等，普号也只需要计算 PoW（服务器顶不住）。`提速`
+* `响应快`，应该不比官方慢就是了。
+* 官方有一些特性会`提前强开`。
+* 支持`*.new.oaifree.com`通配，可一号一域名，域名`随便写`，`多开无压力`。
+* `隐私安全`从fakeopen到现在`没出过问题`，不同于有些服务卖聊天记录。
+* 还有的东西，公共场合不便说出来，你用用就知道了。 :innocent:
 
-作者写的 Pandora 告别信：[你们赢了，但我却没有输](https://linux.do/t/topic/1051)
+### 作者写的 Pandora 告别信：[你们赢了，但我却没有输](https://linux.do/t/topic/1051)
 
-原 README：[README-raw.md](https://github.com/yhx2010/pandora/tree/master/README-raw.md)
+### 原 README：[README-raw.md](https://github.com/yhx2010/pandora/tree/master/README-raw.md)
 
 以下是原版 README，但进行了部分修改：
 
@@ -26,13 +38,14 @@
 [![Discord](https://img.shields.io/discord/1098772912242163795?label=Discord)](https://discord.gg/QBkd9JAaWa)
 
 ## 体验地址
-* 点击 <a href="https://new.oaifree.com" target="_blank" title="Pandora Cloud体验地址">new.oaifree.com</a> (需要 AccessToken)
+* 点击 <a href="https://new.oaifree.com" target="_blank" title="Pandora Cloud体验地址">new.oaifree.com</a> (需要 Access Token)
 * 最新拿 `Access Token` 的技术原理，我记录在[这里](https://zhile.io/2023/05/19/how-to-get-chatgpt-access-token-via-pkce.html)了。
 * 可以访问 [这里](http://ai-20230626.fakeopen.com/auth) 拿 `Access Token`  (用不了了)
-* 也可以官方登录，然后访问 [这里](http://chat.openai.com/api/auth/session) 拿 `Access Token` (要梯子)
-* (也可以用[传送门 1（RawChat）](https://chat.rawchat.cc/api/auth/session)[传送门 2（FREEGPTS）](https://chat.freegpts.org/api/auth/session))
+* 也可以官方/RawChat/FREEGPTS登录，然后访问 [这里](http://chat.openai.com/api/auth/session) 拿 `Access Token` (要梯子)
+* (也可以用[传送门 1（RawChat）](https://chat.rawchat.cc/api/auth/session)/[传送门 2（FREEGPTS）](https://chat.freegpts.org/api/auth/session))
 * `Access Token` 有效期 `14` 天，期间访问**不需要梯子**。这意味着你在手机上也可随意使用。
 * 这个页面上还包含一个共享账号的链接，**没有账号**的可以点进去体验一下。
+* （Shared Chat by RawChat: [sharedchat.fun](https://sharedchat.fun)，选完帐号后可以进[传送门](https://chat.sharedchat.fun/api/auth/session)取 Access Token 登 [new 站（新 Pandora）](https://new.oaifree.com)）
  
 ## ChatGPT使用时可能会遇到：
 
